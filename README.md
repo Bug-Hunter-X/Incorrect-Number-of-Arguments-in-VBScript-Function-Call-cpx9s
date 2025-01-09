@@ -1,0 +1,1 @@
+This repository demonstrates a common error in VBScript: calling a function with the incorrect number of arguments. The `bug.vbs` file contains the erroneous code, while `bugSolution.vbs` provides the corrected version.
